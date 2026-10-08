@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Résultats : on versionne seulement ce dont l'application a besoin
+results/*.npy
+results/*.npz
+results/*.csv
+results/experiments/grid/
+results/experiments/grid_quick/
+results/experiments/final_quick/
+results/experiments/final_robust/
+results/experiments/selected_config_quick.json

@@ -1,0 +1,14 @@
+{
+  "double_q_learning": {
+    "alpha": 0.03,
+    "eps_decay": 0.9998,
+    "score": 12.12907771520421,
+    "n_seeds": 5
+  },
+  "q_learning": {
+    "alpha": 0.01,
+    "eps_decay": 0.9998,
+    "score": 12.308211301220556,
+    "n_seeds": 5
+  }
+}
