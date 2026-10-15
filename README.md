@@ -1,5 +1,5 @@
 cat > README.md <<'EOF'
-# Machine des crédits
+# Marchés de crédit (credit scoring)
 
 Projet de Processus stochastiques (Master 2 IA & Informatique) :
 MDP, Q-Learning et Double Q-Learning appliqués à une décision de crédit.

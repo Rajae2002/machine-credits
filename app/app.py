@@ -1,5 +1,5 @@
 """
-app.py : interface Streamlit « Machine des crédits » (démonstration universitaire).
+app.py : interface Streamlit « Marchés de crédit (credit scoring) » (démonstration universitaire).
 
 Lancement (depuis la racine du projet) :  streamlit run app/app.py
 
@@ -219,8 +219,8 @@ par value iteration et sert de référence.
 
 # ----------------------------------------------------------------------
 def main():
-    st.set_page_config(page_title="Machine des crédits", layout="wide")
-    st.title("Machine des crédits")
+    st.set_page_config(page_title="Marchés de crédit (credit scoring)", layout="wide")
+    st.title("Marchés de crédit (credit scoring)")
     st.caption("MDP, Q-Learning et Double Q-Learning — projet de Processus stochastiques")
     st.warning("**Environnement SIMULÉ** : probabilités et récompenses artificielles, aucune donnée "
                "bancaire réelle. Ce n'est pas un système de décision bancaire.")
